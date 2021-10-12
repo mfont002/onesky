@@ -184,6 +184,11 @@
          "name": "Refugee", 
          "authUrl": "https://refugee.hivue.mobdso.com/api/user/impersonate", 
          "uiUrl": "https://refugee.hivue.mobdso.com" 
+        },
+        { 
+         "name": "ESTA", 
+         "authUrl": "https://esta.hivue.mobdso.com/api/user/impersonate", 
+         "uiUrl": "https://esta.hivue.mobdso.com" 
         }
     ]
 }
