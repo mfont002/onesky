@@ -178,17 +178,17 @@
         { 
          "name": "NIV", 
          "authUrl": "https://niv.hivue.mobdso.com/api/user/impersonate", 
-         "uiUrl": "https://niv.hivue.mobdso.com" 
+         "uiUrl": "http://niv.hivue.mobdso.com" 
         },
         { 
          "name": "Refugee", 
          "authUrl": "https://refugee.hivue.mobdso.com/api/user/impersonate", 
-         "uiUrl": "https://refugee.hivue.mobdso.com" 
+         "uiUrl": "http://refugee.hivue.mobdso.com" 
         },
         { 
          "name": "ESTA", 
          "authUrl": "https://esta.hivue.mobdso.com/api/user/impersonate", 
-         "uiUrl": "https://esta.hivue.mobdso.com" 
+         "uiUrl": "http://esta.hivue.mobdso.com" 
         }
     ]
 }
